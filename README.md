@@ -1,4 +1,4 @@
 naruto
 ======
 
-realtime
+An koa-based Node.js web application bootstrapping module.
